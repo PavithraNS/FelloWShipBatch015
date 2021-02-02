@@ -13,7 +13,7 @@ namespace ConsoleApp
             Console.WriteLine("Welcome");
             Console.WriteLine("Welcome to FellowShip");
             Console.WriteLine("Changing file at remote master");
-            Console.ReadLine();
+            Console.ReadLine("=============================");
         }
     }
 }

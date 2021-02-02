@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
@@ -17,6 +13,8 @@ namespace ConsoleApp
         	Console.WriteLine("Welcome to FellowShip");
 		Console.WriteLine("Changing in local developement branch");
         	Console.ReadLine();
+            	Console.WriteLine("Changing file at remote master");
+            	Console.ReadLine("=============================");
         }
     }
 }

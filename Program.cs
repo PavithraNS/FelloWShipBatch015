@@ -11,7 +11,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
-            //Console.WriteLine();
+            Console.WriteLine("Welcome to FellowShip");
+            Console.WriteLine("Changing file at remote master");
             Console.ReadLine();
         }
     }

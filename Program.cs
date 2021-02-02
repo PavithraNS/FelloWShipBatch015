@@ -14,8 +14,9 @@ namespace ConsoleApp
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to FellowShip");
-            Console.ReadLine();
+        	Console.WriteLine("Welcome to FellowShip");
+		Console.WriteLine("Changing in local developement branch");
+        	Console.ReadLine();
         }
     }
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
@@ -14,7 +10,8 @@ namespace ConsoleApp
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to FellowShip");
+            Console.WriteLine("Welcome");
+            //Console.WriteLine();
             Console.ReadLine();
         }
     }
